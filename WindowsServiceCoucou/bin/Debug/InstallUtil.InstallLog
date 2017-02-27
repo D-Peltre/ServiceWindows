@@ -1,0 +1,14 @@
+﻿
+Exécution d'une installation traitée avec transaction.
+
+Début de la phase d'installation de l'installation.
+Consultez le contenu du fichier journal pour l'avancement de l'assembly C:\Users\dylan\Source\Workspaces\Espace de travail\WindowsServiceCoucou\WindowsServiceCoucou\bin\Debug\WindowsServiceCoucou.exe.
+Le fichier se trouve à C:\Users\dylan\Source\Workspaces\Espace de travail\WindowsServiceCoucou\WindowsServiceCoucou\bin\Debug\WindowsServiceCoucou.InstallLog.
+
+La phase d'installation est terminée et la phase de validation a commencé.
+Consultez le contenu du fichier journal pour l'avancement de l'assembly C:\Users\dylan\Source\Workspaces\Espace de travail\WindowsServiceCoucou\WindowsServiceCoucou\bin\Debug\WindowsServiceCoucou.exe.
+Le fichier se trouve à C:\Users\dylan\Source\Workspaces\Espace de travail\WindowsServiceCoucou\WindowsServiceCoucou\bin\Debug\WindowsServiceCoucou.InstallLog.
+
+La phase de validation est terminée.
+
+L'installation traitée avec transaction est terminée.

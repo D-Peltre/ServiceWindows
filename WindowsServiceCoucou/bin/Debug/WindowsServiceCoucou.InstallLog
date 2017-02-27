@@ -1,0 +1,13 @@
+﻿Installation de l'assembly 'C:\Users\dylan\Source\Workspaces\Espace de travail\WindowsServiceCoucou\WindowsServiceCoucou\bin\Debug\WindowsServiceCoucou.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\dylan\Source\Workspaces\Espace de travail\WindowsServiceCoucou\WindowsServiceCoucou\bin\Debug\WindowsServiceCoucou.InstallLog
+   assemblypath = C:\Users\dylan\Source\Workspaces\Espace de travail\WindowsServiceCoucou\WindowsServiceCoucou\bin\Debug\WindowsServiceCoucou.exe
+Installation du service ServiceCoucou en cours...
+Le service ServiceCoucou a été installé avec succès.
+Création d'une source EventLog ServiceCoucou dans le journal Application...
+Validation de l'assembly 'C:\Users\dylan\Source\Workspaces\Espace de travail\WindowsServiceCoucou\WindowsServiceCoucou\bin\Debug\WindowsServiceCoucou.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\dylan\Source\Workspaces\Espace de travail\WindowsServiceCoucou\WindowsServiceCoucou\bin\Debug\WindowsServiceCoucou.InstallLog
+   assemblypath = C:\Users\dylan\Source\Workspaces\Espace de travail\WindowsServiceCoucou\WindowsServiceCoucou\bin\Debug\WindowsServiceCoucou.exe

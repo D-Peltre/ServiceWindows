@@ -1,0 +1,8 @@
+C:\Users\dylan\Source\Workspaces\Espace de travail\WindowsServiceCoucou\WindowsServiceCoucou\bin\Debug\WindowsServiceCoucou.exe.config
+C:\Users\dylan\Source\Workspaces\Espace de travail\WindowsServiceCoucou\WindowsServiceCoucou\bin\Debug\WindowsServiceCoucou.exe
+C:\Users\dylan\Source\Workspaces\Espace de travail\WindowsServiceCoucou\WindowsServiceCoucou\bin\Debug\WindowsServiceCoucou.pdb
+C:\Users\dylan\Source\Workspaces\Espace de travail\WindowsServiceCoucou\WindowsServiceCoucou\obj\Debug\WindowsServiceCoucou.csprojResolveAssemblyReference.cache
+C:\Users\dylan\Source\Workspaces\Espace de travail\WindowsServiceCoucou\WindowsServiceCoucou\obj\Debug\WindowsServiceCoucou.exe
+C:\Users\dylan\Source\Workspaces\Espace de travail\WindowsServiceCoucou\WindowsServiceCoucou\obj\Debug\WindowsServiceCoucou.pdb
+C:\Users\dylan\Source\Workspaces\Espace de travail\WindowsServiceCoucou\WindowsServiceCoucou\obj\Debug\WindowsServiceCoucou.ProjectInstaller.resources
+C:\Users\dylan\Source\Workspaces\Espace de travail\WindowsServiceCoucou\WindowsServiceCoucou\obj\Debug\WindowsServiceCoucou.csproj.GenerateResource.Cache
